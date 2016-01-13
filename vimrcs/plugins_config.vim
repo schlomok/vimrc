@@ -8,6 +8,9 @@
 """"""""""""""""""""""""""""""
 " => Load pathogen paths
 """"""""""""""""""""""""""""""
+
+" schlomok: I am opting to keep pathogen and the related sources in because
+" this source is forked. That said, the primary installer is Vundle
 call pathogen#infect('~/.vim_runtime/sources_forked/{}')
 call pathogen#infect('~/.vim_runtime/sources_non_forked/{}')
 call pathogen#helptags()
