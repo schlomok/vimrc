@@ -10,6 +10,8 @@ Plugin 'VundleVim/Vundle.vim'
 
 " My plugins
 Plugin 'Valloric/YouCompleteMe'
+Plugin 'Yggdroot/indentLine'
+Plugin 'Raimondi/delimitMate'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
