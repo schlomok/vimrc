@@ -25,4 +25,3 @@ let g:NERDTreeWinPos = "left"
 
 " Personal Mappings
 :imap jk <Esc>
-
