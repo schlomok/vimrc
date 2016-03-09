@@ -13,6 +13,7 @@ Plugin 'Valloric/YouCompleteMe'
 Plugin 'Yggdroot/indentLine'
 Plugin 'Raimondi/delimitMate'
 Plugin 'rizzatti/dash.vim'
+Plugin 'itspriddle/vim-marked'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required

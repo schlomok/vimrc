@@ -25,3 +25,5 @@ let g:NERDTreeWinPos = "left"
 
 " Personal Mappings
 :imap jk <Esc>
+
+let g:marked_app = "Marked 2"
